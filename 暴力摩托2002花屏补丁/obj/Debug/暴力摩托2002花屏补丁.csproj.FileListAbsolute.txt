@@ -1,0 +1,11 @@
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\bin\Debug\暴力摩托2002花屏补丁.exe.config
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\bin\Debug\暴力摩托2002花屏补丁.exe
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\bin\Debug\暴力摩托2002花屏补丁.pdb
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.csproj.AssemblyReference.cache
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.csproj.SuggestedBindingRedirects.cache
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.Form1.resources
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.Properties.Resources.resources
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.csproj.GenerateResource.cache
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.csproj.CoreCompileInputs.cache
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.exe
+C:\Users\非让起个名\source\repos\暴力摩托2002花屏补丁\obj\Debug\暴力摩托2002花屏补丁.pdb
