@@ -1,0 +1,10 @@
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\bin\Debug\文字加密解密器.exe.config
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\bin\Debug\文字加密解密器.exe
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\bin\Debug\文字加密解密器.pdb
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.csproj.AssemblyReference.cache
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.Form1.resources
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.Properties.Resources.resources
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.csproj.GenerateResource.cache
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.csproj.CoreCompileInputs.cache
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.exe
+C:\Users\64280\source\repos\文字加密解密器\文字加密解密器\obj\Debug\文字加密解密器.pdb

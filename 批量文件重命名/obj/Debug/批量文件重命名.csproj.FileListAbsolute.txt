@@ -1,0 +1,11 @@
+C:\Users\非让起个名\source\repos\批量文件重命名\bin\Debug\批量文件重命名.exe.config
+C:\Users\非让起个名\source\repos\批量文件重命名\bin\Debug\批量文件重命名.exe
+C:\Users\非让起个名\source\repos\批量文件重命名\bin\Debug\批量文件重命名.pdb
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.csproj.AssemblyReference.cache
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.csproj.SuggestedBindingRedirects.cache
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.Properties.Resources.resources
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.csproj.GenerateResource.cache
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.csproj.CoreCompileInputs.cache
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.exe
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.pdb
+C:\Users\非让起个名\source\repos\批量文件重命名\obj\Debug\批量文件重命名.Main_Form.resources
